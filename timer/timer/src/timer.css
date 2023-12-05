@@ -1,0 +1,34 @@
+.timer{
+    width: 100%;
+    height: 100vh;
+    font-size:40px;
+    background-color:#8B008B;
+    display:flex;
+    justify-content:center;
+  }
+  
+  .container{
+    padding-top:100px;
+  }
+  
+  .reset,.start{
+    margin-top:20px;
+    margin-bottom:20px;
+    color:#fff;
+    font-size: 40px;
+    background-color:green;
+    width:170px;
+    height:70px;
+    border:none;
+    border-radius:15px;
+  }
+  
+  .reset{
+    margin-left:15px;
+    background-color:red;
+  }
+
+  .start {
+    font-size: 40px;
+  
+  }
