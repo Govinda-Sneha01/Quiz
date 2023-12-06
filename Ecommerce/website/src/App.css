@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+.image-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.imag-row {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.image-container {
+  margin: 0 10px;
+}
+
+
+.img1{
+  padding: 0 16px 0 0;
+}
+
+.img-container{
+  margin: 0 10px;
+  width: 400px;
+  border: 2px solid black;
+}
